@@ -8,7 +8,7 @@ About me:
 - I was born in Russia, but grew up in Portugal and Panamá
 - I love (and have had several) cats but now have a dog
 - I've written 2 books and plan on never doing that again 
-- I've been to a recording of SNL
+- I've been to a recording of Saturday Night Live
 
 Things I like:
 - 🎙 Podcasts (here's a [repo](https://github.com/yaili/podcasts) with all I've been listening to)
