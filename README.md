@@ -2,13 +2,13 @@
 
 Hi! :wave:
 
-I'm Yaili [yah-ee-lee] and I'm a Staff Program Manager at GitHub. I live in Leyton, in London. 
+I'm Yaili [yah-ee-lee] and I'm Director of DesignOps GitHub. I live in Leyton, in London. 
 
 About me:
 - I was born in Russia, but grew up in Portugal and Panamá
 - I love (and have had several) cats but now have a dog
 - I've written 2 books and plan on never doing that again 
-- I've been to a recording of Saturday Night Live
+- I've been to a live recording of Saturday Night Live
 
 Things I like:
 - 🎙 Podcasts (here's an out-of-date [repo](https://github.com/yaili/podcasts) with some I've been listening to)
